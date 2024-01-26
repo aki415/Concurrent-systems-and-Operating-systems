@@ -1,0 +1,22 @@
+ make -s
+ ./main
+Creating thread 0
+Creating thread 1
+Creating thread 2
+Creating thread 3
+Creating thread 4
+Creating thread 5
+
+5: Hello World, from akudeg!
+
+3: Hello World, from akudeg!
+
+4: Hello World, from akudeg!
+
+2: Hello World, from akudeg!
+
+1: Hello World, from akudeg!
+
+0: Hello World, from akudeg!
+
+All threads done by akudeg, x = 6
